@@ -4,6 +4,8 @@
 
 This repository showcases a detailed replication of the Amazon website using HTML and CSS, emphasizing advanced front-end development skills. The project is dedicated to improving user interface design and usability through meticulous attention to detail and precision in code implementation.
 
+##Amazon Colne image has also been attached with the files 
+
 ## Features
 
 - **HTML and CSS Replication**: The project meticulously reproduces the Amazon website's appearance and layout using HTML for structure and CSS for styling.
